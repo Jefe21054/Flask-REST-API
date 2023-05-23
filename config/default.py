@@ -1,0 +1,4 @@
+import os
+
+SECRET_KEY = os.getenv('SECRET_KEY')
+SQLALCHEMY_TRACK_MODIFICATIONS = True

@@ -1,0 +1,8 @@
+flask
+python-dotenv
+psycopg2
+flask-restful
+Flask-SQLAlchemy
+Flask-Migrate
+flask-marshmallow
+marshmallow-sqlalchemy
